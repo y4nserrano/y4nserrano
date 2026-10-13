@@ -37,7 +37,7 @@ Aprender a programar  ▓▓░░░░░░░░░░░░░  10%  (pero 
 
 ### 🤝 Conectemos
 
-<a href="PEGA_AQUI_TU_LINK_DE_LINKEDIN">
+<a href="www.linkedin.com/in/y4nserrano">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
